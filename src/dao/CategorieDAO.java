@@ -7,6 +7,8 @@ import java.util.List;
 
 public class CategorieDAO {
 
+    // hhhhhh
+
     // Methode pour recuperer toutes les categories depuis la base de donnees
     public List<Categorie> getAllCategories() {
         List<Categorie> categories = new ArrayList<>();
